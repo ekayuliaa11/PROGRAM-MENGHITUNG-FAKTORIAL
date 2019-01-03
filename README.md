@@ -21,3 +21,6 @@
     }
     return 0;
     }
+
+# hasil program
+![img](https://github.com/ekayuliaa11/PROGRAM-MENGHITUNG-FAKTORIAL/blob/master/menghitung%20faktorial.png?raw=true)
